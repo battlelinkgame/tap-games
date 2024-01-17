@@ -1,4 +1,4 @@
 # tap-games
 tap-games
 
-https://cocogames.github.io/tap-games
+https://battlelinkgame.github.io/tap-games
